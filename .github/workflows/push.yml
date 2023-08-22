@@ -46,4 +46,4 @@ jobs:
         content: |
           兄弟们，咱们的图标更新啦 ~
           请使用 yarn upgrade onein-vue-icon --latest 更新。
-          在线查看图标：https://tide773.github.io/onein-vue-icon/
+          在线查看图标：https://tofuturenow.github.io/onein-vue-icon/
