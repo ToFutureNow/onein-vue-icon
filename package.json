@@ -1,5 +1,5 @@
 {
-  "name": "onein-vue3-icon",
+  "name": "vue3-onein-icon",
   "version": "0.1.17",
   "description": "onein Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
