@@ -7,7 +7,7 @@
     "dist",
     "es"
   ],
-  "repository": "https://github.com/tide773/onein-vue-icon.git",
+  "repository": "https://github.com/ToFutureNow/onein-vue-icon.git",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "serve": "vue-cli-service serve",
