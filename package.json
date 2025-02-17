@@ -1,6 +1,6 @@
 {
   "name": "vue3-onein-icon",
-  "version": "1.9.45",
+  "version": "1.9.46",
   "description": "onein Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
